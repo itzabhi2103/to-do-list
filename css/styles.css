@@ -1,0 +1,42 @@
+body{
+margin: 0px;
+background: url('https://images.pexels.com/photos/5861190/pexels-photo-5861190.jpeg?auto=compress&cs=tinysrgb&w=1930') no-repeat;}
+
+.user-info{
+background-color: #333;
+color: #fff;
+}
+
+.user-info ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+.user-info ul li {
+display: inline-block;}
+
+.user-info ul li a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.user-info ul li a:hover {
+    background-color: #555;
+}
+
+.logo{
+background-color: #843ab8;
+padding: 18px;
+}
+
+form.form input{
+color: #333;
+font-family: sans-serif;
+background: transparent;
+padding: 20px 40px;
+outline: none;
+border: none;
+font-size: 3rem;}
